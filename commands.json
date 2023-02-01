@@ -1,0 +1,17 @@
+{
+    "regular-cmd": [
+        {
+            "cmd-name": "name",
+            "cmd-description": "cmd-description"
+        }
+
+    ],
+    "slash-cmd":[
+        {
+            "cmd-name": "name",
+            "cmd-description": "cmd-description"
+        }
+
+    ]
+
+}
